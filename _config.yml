@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-palette: blue
+palette: navy
 header:
   title: Libris
   logo_img: images/logo.svg
