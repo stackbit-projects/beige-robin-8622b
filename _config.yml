@@ -85,4 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://beige-robin-8622b.netlify.app'
+domain: 'https://doc.quandopasso.com'
