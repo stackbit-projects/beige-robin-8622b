@@ -25,7 +25,7 @@ sections:
         content: |
           This section documents the Android SDK
         actions:
-          - label: View Posts
+          - label: Get Started
             url: /blog
             style: link
       - title: API
