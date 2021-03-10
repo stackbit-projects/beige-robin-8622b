@@ -8,7 +8,7 @@ palette: navy
 header:
   title: Quandopasso
   logo_img: images/incredible-mahogany.png
-  logo_img_alt: Libris logo
+  logo_img_alt: Quandopasso
   has_nav: true
   nav_links:
     - label: Home
