@@ -15,7 +15,7 @@ header:
       url: /
       style: link
       has_subnav: false
-    - label: SDK
+    - label: IOS SDK
       url: /docs
       style: link
       has_subnav: false
