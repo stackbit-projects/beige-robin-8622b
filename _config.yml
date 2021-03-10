@@ -30,7 +30,7 @@ header:
       type: action_menu
     - label: API
       url: '#'
-      style: link
+      style: secondary
       icon_class: dev
       new_window: false
       no_follow: false
