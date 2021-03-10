@@ -22,7 +22,6 @@ sections:
             url: /docs
             style: link
         title_url: 'https://doc.quandopasso.com'
-        image: images/cropped-QPscript3.png
         image_alt: Quandopasso
       - title: SDK - Android
         content: |
