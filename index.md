@@ -15,10 +15,8 @@ sections:
     col_number: three
     grid_items:
       - title: SDK - IOS
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          This section documents the quandopasso IOS SDK
         actions:
           - label: Get Started
             url: /docs
