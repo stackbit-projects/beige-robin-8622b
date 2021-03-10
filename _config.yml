@@ -30,10 +30,6 @@ header:
         - label: Showcase
           url: /showcase
           style: link
-    - label: GitHub
-      url: 'https://github.com/'
-      style: primary
-      has_subnav: false
   url: Quandopasso
 footer:
   content: >-
