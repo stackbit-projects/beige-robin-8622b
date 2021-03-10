@@ -22,9 +22,8 @@ sections:
             url: /docs
             style: link
       - title: SDK - Android
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |
+          This section documents the Android SDK
         actions:
           - label: View Posts
             url: /blog
