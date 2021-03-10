@@ -82,3 +82,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 domain: 'https://doc.quandopasso.com'
+favicon: images/QP.png
