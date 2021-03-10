@@ -22,6 +22,7 @@ sections:
             url: /docs
             style: link
         title_url: 'https://doc.quandopasso.com'
+        image: images/cropped-QPscript3.png
       - title: SDK - Android
         content: |
           This section documents the Android SDK
