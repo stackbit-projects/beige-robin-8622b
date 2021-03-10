@@ -103,7 +103,7 @@ sections:
         style: primary
 seo:
   title: Quandopasso
-  description: The preview of the Libris theme
+  description: Quandopasso documentation
   extra:
     - name: 'og:type'
       value: website
