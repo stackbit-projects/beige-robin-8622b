@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: navy
 header:
-  title: Libris
+  title: Quandopasso
   logo_img: images/logo.svg
   logo_img_alt: Libris logo
   has_nav: true
