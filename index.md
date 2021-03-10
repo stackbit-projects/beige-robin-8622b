@@ -21,7 +21,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-        title_url: SDK
+        title_url: 'https://doc.quandopasso.com'
       - title: SDK - Android
         content: |
           This section documents the Android SDK
