@@ -118,8 +118,6 @@ seo:
       value: /images/cropped-QPscript2.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:title'
-      value: Stackbit Libris Theme
     - name: 'twitter:description'
       value: The preview of the Libris theme
     - name: 'twitter:image'
