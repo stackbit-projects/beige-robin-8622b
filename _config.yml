@@ -28,7 +28,7 @@ header:
       has_subnav: false
       subnav_links: []
       type: action_menu
-    - label: lorem-ipsum
+    - label: API
       url: '#'
       style: link
       icon_class: dev
