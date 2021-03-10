@@ -19,7 +19,7 @@ header:
       url: /docs
       style: link
       has_subnav: false
-    - label: lorem-ipsum
+    - label: Android SDK
       url: '#'
       style: link
       icon_class: dev
