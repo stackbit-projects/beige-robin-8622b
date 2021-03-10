@@ -112,7 +112,7 @@ seo:
       value: Quandopasso
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: Quadopasso documentation
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
