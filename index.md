@@ -21,6 +21,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
+        title_url: SDK
       - title: SDK - Android
         content: |
           This section documents the Android SDK
