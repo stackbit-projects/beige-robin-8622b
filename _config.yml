@@ -16,7 +16,7 @@ header:
       style: link
       has_subnav: false
     - label: IOS SDK
-      url: /docs
+      url: /ios
       style: link
       has_subnav: false
     - label: Android SDK
