@@ -40,7 +40,7 @@ header:
   url: Quandopasso
 footer:
   content: '&copy; Quandopasso. All rights reserved. '
-  has_social: true
+  has_social: false
   social_links:
     - label: Twitter
       url: 'https://twitter.com/'
