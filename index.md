@@ -118,8 +118,5 @@ seo:
       value: /images/cropped-QPscript2.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:image'
-      value: images/4.jpg
-      relativeUrl: true
 layout: advanced
 ---
